@@ -1,20 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="92a65049-9adb-4b94-a12a-e00042b5b713" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/NACOR_BSIT2D.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="92a65049-9adb-4b94-a12a-e00042b5b713" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000016489739323" />
+      <entry key="MS500" value="1.071795911113091" />
+      <entry key="S2" value="2.0764767676577964" />
+      <entry key="S5" value="4.52965876411286" />
+      <entry key="S10" value="8.565139646790886" />
+      <entry key="S30" value="26.01203986717424" />
+      <entry key="S60" value="41.94470336097663" />
+      <entry key="M2" value="55.36244353982086" />
+      <entry key="M5" value="66.21823763157796" />
+      <entry key="M10" value="70.43636218579759" />
+      <entry key="M15" value="71.91769052921595" />
+      <entry key="M30" value="73.43851514067593" />
+      <entry key="H1" value="74.21410088108713" />
+      <entry key="H2" value="74.60575187292781" />
+      <entry key="H4" value="74.80255011220748" />
+      <entry key="D1" value="74.9670463312736" />
+      <entry key="W1" value="74.9952912210106" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.039281669895573856" />
+      <entry key="MS500" value="0.5435120300375712" />
+      <entry key="S2" value="1.775873547953512" />
+      <entry key="S5" value="4.362117762598816" />
+      <entry key="S10" value="8.465310538601186" />
+      <entry key="S30" value="25.96309417967055" />
+      <entry key="S60" value="41.913101652391894" />
+      <entry key="M2" value="55.34355814470154" />
+      <entry key="M5" value="66.20966503683735" />
+      <entry key="M10" value="70.43187580765498" />
+      <entry key="M15" value="71.91465258136472" />
+      <entry key="M30" value="73.43697197612597" />
+      <entry key="H1" value="74.21332312101465" />
+      <entry key="H2" value="74.60536143187221" />
+      <entry key="H4" value="74.80235449933437" />
+      <entry key="D1" value="74.96701367445735" />
+      <entry key="W1" value="74.99528655440999" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6,
@@ -28,11 +91,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
